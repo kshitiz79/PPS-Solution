@@ -1,6 +1,6 @@
 
 
-#nclude <stdio.h>
+#include <stdio.h>
 
 int main()
 {
